@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\AGilbert\\Documents\\Visual Studio 2022\\Projects\\JokesWebApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{793D4A59-E232-4722-A1F2-9784E65E0F37}|JokesWebApp\\JokesWebApp.csproj|c:\\users\\agilbert\\documents\\visual studio 2022\\projects\\jokeswebapp\\jokeswebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{793D4A59-E232-4722-A1F2-9784E65E0F37}|JokesWebApp\\JokesWebApp.csproj|solutionrelative:jokeswebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AGilbert\\Documents\\Visual Studio 2022\\Projects\\JokesWebApp\\JokesWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "JokesWebApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AGilbert\\Documents\\Visual Studio 2022\\Projects\\JokesWebApp\\JokesWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "JokesWebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-27T20:16:38.215Z",
-              "EditorCaption": ""
             }
           ]
         }
